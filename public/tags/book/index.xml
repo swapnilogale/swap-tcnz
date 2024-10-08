@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Book on Swapnil Ogale</title>
+    <link>https://example.com/tags/book/</link>
+    <description>Recent content in Book on Swapnil Ogale</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://example.com/tags/book/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Writing Process, 2nd Edition</title>
+      <link>https://example.com/publications/techwritingbook/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publications/techwritingbook/</guid>
+      <description>&lt;p&gt;Working alongside a team of stellar technical communication specialists, I was the lead writer on the Design chapters for the 2nd edition of the Technical Writing Process book.&lt;/p&gt;&#xA;&lt;p&gt;My chapters focussed on the use of stylesheets in document design, and importance of using visuals like screenshots and diagrams in technical documentation.&lt;/p&gt;&#xA;&lt;p&gt;Buy the Technical Writing Process (2nd Edition) today and master the craft of technical writing.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Paperback: &lt;a href=&#34;https://www.amazon.com/Technical-Writing-Process-Timeless-Techniques/dp/0994169329/&#34;&gt;Technical Writing Process (2024, 2nd Ed.) Paperback&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;e-Book: &lt;a href=&#34;https://www.amazon.com/Technical-Writing-Process-Timeless-Techniques-ebook/dp/B0CV2SKBCG/&#34;&gt;Technical Writing Process (2024, 2nd Ed.) e-Book&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
